@@ -1,0 +1,12 @@
+p {
+    min-width: 20vw;
+}
+
+.bg-light-yellow {
+    background-color: #fff3cd;
+    border: 1px solid gray;
+}
+
+.bg-mint {
+    background-color: #d1e7dd;
+}
